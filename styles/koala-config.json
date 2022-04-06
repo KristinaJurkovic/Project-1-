@@ -1,0 +1,10 @@
+{
+	"mappings": [{
+		"src": "/src/",
+		"dest": "/build/"
+	}, {
+		"src": "/src/components/",
+		"dest": "/build/components/"
+	}],
+	"ignores": ["*.css"]
+}

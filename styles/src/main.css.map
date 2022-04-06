@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACH,gBAAgB,EAAE,SAAS;EAE3B,QAAE;IACE,KAAK,EAAE,IAAI;;ACJnB,MAAO;EACH,gBAAgB,EAAE,SAAS;;ACE/B,EAAG;EACC,KAAK,EAAE,IAAI",
+"sources": ["components/_header.scss","components/_footer.scss","main.scss"],
+"names": [],
+"file": "main.css"
+}
